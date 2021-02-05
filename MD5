@@ -1,0 +1,15 @@
+70d53a12a5f11200ca3a23063f2abf57 *DESCRIPTION
+c052acc412ca2b4ffc42cfeb5a1902ff *LICENSE
+f000bc87e9a0f2780bb2be844225e158 *NAMESPACE
+0731152acc7d353d21e23e63a3026614 *NEWS.md
+c4dbd9da0e5f386af682af31f1db48c4 *R/find_changepoints.R
+28719c8a82c3a4e23fa34614dbaec7d8 *R/install_PyChest.R
+27ce2ae21eef87fc84db1db896a6cdeb *R/list_estimator.R
+38a39684e7745ffa9eadad6c4d895fc2 *R/zzz.R
+2ea76f734368d32705c28f0eaa471314 *README.md
+a2001b2749f8e9162ce601a5470b572f *man/find_changepoints.Rd
+7c96ecd2dd623171e4324f2d755aa39f *man/install_PyChest.Rd
+2a00a9baba22d3b534233de58889a491 *man/list_estimator.Rd
+6236f9c0a788bc1ae5540766b05c02b7 *tests/testthat.R
+a40080f1775e0c874716e6d648645239 *tests/testthat/test-find_changepoints.R
+4de429c43ed3f9aebd8b7bbecf11f837 *tests/testthat/test-list_estimator.R
